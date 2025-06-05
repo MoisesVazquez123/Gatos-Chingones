@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
   };
 
   function volver(){
-    window.location.href="../html/Index.html";
+    window.location.href="../Index.html";
   };
   
  
