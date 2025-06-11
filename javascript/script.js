@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   function ira(){
-    window.location.href="../html/Lista de los mejores gatos del mundo.html";
+    window.location.href="html/Lista de los mejores gatos del mundo.html";
   };
 
   function volver(){
